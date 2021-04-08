@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/VR Golf.unity
+    guid: 45771487280b044a6b8eb7fa501bdb27
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f9dcaf747770e4761ad6e9d745440fd9, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ae8b0e83909af4d7b89a18cea1332126, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 5a28e9467c0514fa193736b632d39b2d, type: 2}
